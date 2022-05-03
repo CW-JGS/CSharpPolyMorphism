@@ -1,0 +1,15 @@
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\bin\Debug\net6.0\GodIsDeadAndWeKilledHim.exe
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\bin\Debug\net6.0\GodIsDeadAndWeKilledHim.deps.json
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\bin\Debug\net6.0\GodIsDeadAndWeKilledHim.runtimeconfig.json
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\bin\Debug\net6.0\GodIsDeadAndWeKilledHim.dll
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\bin\Debug\net6.0\GodIsDeadAndWeKilledHim.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.AssemblyInfo.cs
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.dll
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\refint\GodIsDeadAndWeKilledHim.dll
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\GodIsDeadAndWeKilledHim.genruntimeconfig.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSharpPolyMorphism\GodIsDeadAndWeKilledHim\obj\Debug\net6.0\ref\GodIsDeadAndWeKilledHim.dll
